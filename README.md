@@ -8,4 +8,4 @@
 * DH - Dark humor
 * DP - Deeply political (these aren't really age-ratings... They're CONTROVERSY ratings...)
 * IT - Individuals targed (don't worry they deserve it)
-* 
+* EV - Extreme violence or terrorism (haha)
