@@ -29,6 +29,9 @@ If these are used in lowercase that means they aren't that present
   * DE-DHDPITEVAPDU
 * Off My Property
   * DE-DHIHLQes
+* ICE Simulator
+  * DE-DPEVduIHLQ
+  * CA-DPITEVAPduIH
 ### Methods to verify your age (don't worry, this only takes a minute)
 * Send us a photo of your government-issued ID
 * Do a video selfie so our AI can determine your age
